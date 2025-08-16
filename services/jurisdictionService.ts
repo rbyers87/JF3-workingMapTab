@@ -216,9 +216,9 @@ const TEXAS_CITIES: Record<string, CityData> = {
   'lumberton': {
     name: 'Lumberton',
     county: 'Hardin County',
-    policePhone: '(409) 755-0001',
+    policePhone: '(409) 755-2650',
     policeWebsite: 'https://www.cityoflumberton.com/police',
-    address: '50 Village Creek Pkwy, Lumberton, TX 77657',
+    address: '120 E Chance Cutoff A, Lumberton, TX 77657',
   },
   'kountze': {
     name: 'Kountze',
