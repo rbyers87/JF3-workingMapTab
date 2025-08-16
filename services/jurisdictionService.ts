@@ -131,8 +131,8 @@ const TEXAS_COUNTIES: Record<string, CountyData> = {
   'orange': {
     name: 'Orange County',
     sheriffPhone: '(409) 883-2612',
-    sheriffWebsite: 'https://www.orangecountytx.gov/departments/sheriff',
-    address: '123 6th St, Orange, TX 77630',
+    sheriffWebsite: 'https://ocsheriffsoffice.com/',
+    address: '205 S Border st., Orange, TX 77630',
   },
   'smith': {
     name: 'Smith County',
