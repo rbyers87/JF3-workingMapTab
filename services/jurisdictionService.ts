@@ -181,9 +181,9 @@ const TEXAS_CITIES: Record<string, CityData> = {
   'vidor': {
     name: 'Vidor',
     county: 'Orange County',
-    policePhone: '(409) 769-4411',
+    policePhone: '(409) 769-4561',
     policeWebsite: 'https://www.vidortx.com/police',
-    address: '1395 N Main St, Vidor, TX 77662',
+    address: '695 East Railroad, Vidor, TX 77662',
   },
   'bridge city': {
     name: 'Bridge City',
