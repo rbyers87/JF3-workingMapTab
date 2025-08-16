@@ -154,7 +154,7 @@ const TEXAS_CITIES: Record<string, CityData> = {
     name: 'Port Arthur',
     county: 'Jefferson County',
     policePhone: '(409) 983-8600',
-    policeWebsite: 'https://www.portarthurtx.gov/departments/police',
+    policeWebsite: 'https://www.portarthurtx.gov/394/Police-Department',
     address: '645 4th St, Port Arthur, TX 77640',
   },
   'nederland': {
