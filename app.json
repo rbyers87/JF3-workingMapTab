@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2b2a1c4f-05c7-40aa-bb6c-5947034bc3d7"
+      }
+    },
+    "android": {
+      "package": "com.rbyers87.TXJF"
     }
   }
 }
