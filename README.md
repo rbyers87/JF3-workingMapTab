@@ -15,3 +15,8 @@ Trying to mimic how 9-1-1 decides jurisdiciton.  App provides a non-emergency ph
 npm install --legacy-peer-deps
 
 expo start -c
+
+to upload/update your folder to github:
+1. git add .
+2. git commit -m "added github instructions to readme"
+3. git push origin main
