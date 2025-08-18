@@ -82,6 +82,7 @@ export default function AboutScreen() {
 
         <View style={styles.versionInfo}>
           <Text style={styles.versionText}>Version 1.0.0</Text>
+          <Text style={styles.versionText}>Developed by Ryan B</Text>
           <Text style={styles.versionSubtext}>Built for Texas Law Enforcement</Text>
         </View>
       </ScrollView>
