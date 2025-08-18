@@ -20,3 +20,7 @@ to upload/update your folder to github:
 1. git add .
 2. git commit -m "added github instructions to readme"
 3. git push origin main
+
+
+EXPO instructions:
+eas build --platform android --profile preview
