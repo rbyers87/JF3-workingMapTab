@@ -157,6 +157,13 @@ const TEXAS_CITIES: Record<string, CityData> = {
     policeWebsite: 'https://www.portarthurtx.gov/394/Police-Department',
     address: '645 4th St, Port Arthur, TX 77640',
   },
+  'port neches': {
+    name: 'Port Neches',
+    county: 'Jefferson County',
+    policePhone: '(409) 722-1421',
+    policeWebsite: 'https://www.ci.port-neches.tx.us/departments/police_department/index.php',
+    address: '1201 Merriman St, Port Neches, TX 77651',
+  },
   'nederland': {
     name: 'Nederland',
     county: 'Jefferson County',
