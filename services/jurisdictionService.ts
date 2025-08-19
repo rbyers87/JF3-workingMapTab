@@ -175,8 +175,8 @@ const TEXAS_CITIES: Record<string, CityData> = {
     name: 'Groves',
     county: 'Jefferson County',
     policePhone: '(409) 962-0244',
-    policeWebsite: 'https://www.grovescity.com/police',
-    address: '6161 Madison Ave, Groves, TX 77619',
+    policeWebsite: 'https://www.cigrovestx.com/page/police.home',
+    address: '4201 Main Ave, Groves, TX 77619',
   },
   'orange': {
     name: 'Orange',
