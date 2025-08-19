@@ -26,6 +26,8 @@ EXPO instructions:
 eas build --platform android --profile preview
 
 To push update from github to local folder:
+
 cd path/to/your/project
+
 git pull origin main
 
