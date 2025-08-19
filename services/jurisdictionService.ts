@@ -161,7 +161,7 @@ const TEXAS_CITIES: Record<string, CityData> = {
     name: 'Nederland',
     county: 'Jefferson County',
     policePhone: '(409) 722-4965',
-    policeWebsite: 'https://www.ci.nederland.tx.us/departments/police',
+    policeWebsite: 'https://www.ci.nederland.tx.us/page/police-main',
     address: '1400 Boston Ave, Nederland, TX 77627',
   },
   'groves': {
