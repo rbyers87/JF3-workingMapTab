@@ -534,7 +534,7 @@ export class JurisdictionService {
       const countyResult = await this.findCountyByGIS(latitude, longitude);
 
       const county = countyResult || {
-        name: 'Texas',
+        name: 'DPS',
         sheriffPhone: '(512) 463-2000',
         sheriffWebsite: 'https://www.dps.texas.gov',
       };
