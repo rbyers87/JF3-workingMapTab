@@ -209,9 +209,9 @@ const TEXAS_CITIES: Record<string, CityData> = {
   'silsbee': {
     name: 'Silsbee',
     county: 'Hardin County',
-    policePhone: '(409) 385-3501',
-    policeWebsite: 'https://www.cityofsilsbee.com/police',
-    address: '415 N 5th St, Silsbee, TX 77656',
+    policePhone: '(409) 385-3714',
+    policeWebsite: 'https://www.cityofsilsbee.com/city-services/police-department/',
+    address: '1104 N 5th St, Silsbee, TX 77656',
   },
   'lumberton': {
     name: 'Lumberton',
