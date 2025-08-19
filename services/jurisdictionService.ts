@@ -829,7 +829,7 @@ export class JurisdictionService {
     console.log('No county found, using Texas DPS fallback');
     // Fallback to Texas DPS
     return {
-      name: 'Texas',
+      name: 'DPS',
       sheriffPhone: '(512) 463-2000',
       sheriffWebsite: 'https://www.dps.texas.gov',
     };
