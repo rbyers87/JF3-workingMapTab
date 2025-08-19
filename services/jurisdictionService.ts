@@ -217,7 +217,7 @@ const TEXAS_CITIES: Record<string, CityData> = {
     name: 'Lumberton',
     county: 'Hardin County',
     policePhone: '(409) 755-2650',
-    policeWebsite: 'https://www.cityoflumberton.com/police',
+    policeWebsite: 'https://cityoflumberton.com/lumberton-police-department-2/',
     address: '120 E Chance Cutoff A, Lumberton, TX 77657',
   },
   'kountze': {
