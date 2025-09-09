@@ -31,3 +31,7 @@ cd path/to/your/project
 
 git pull origin main
 
+Here’s a one-line command that completely resets your folder to match the GitHub repo, discarding all local changes:
+
+git fetch origin && git reset --hard origin/main && git clean -fd
+
