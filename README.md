@@ -31,6 +31,14 @@ cd path/to/your/project
 
 git pull origin main
 
+to build APK use expo commands:
+
+npx expo install eas-cli
+npx eas build -p android --profile preview
+
+
+should build on the expo server at https://expo.dev/accounts/rbyers87/projects/
+
 Here’s a one-line command that completely resets your folder to match the GitHub repo, discarding all local changes:
 
 git fetch origin && git reset --hard origin/main && git clean -fd
